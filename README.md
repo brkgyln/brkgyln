@@ -1,8 +1,5 @@
 <h3 align="center">Whoami</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brkgyln&label=Profile%20views&color=0e75b6&style=flat" alt="brkgyln" /> </p>
-
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - 📝 I regularly write articles on [https://medium.com/@brkgyln](https://medium.com/@brkgyln)
